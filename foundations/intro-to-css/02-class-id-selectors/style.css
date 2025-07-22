@@ -1,0 +1,15 @@
+.odd-number-elements {
+    background-color: pink;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+.addfontsize {
+    font-size: 24px;
+}
+#blueid {
+    color:blue;
+    font-size: 36px;
+}
+#grinchid {
+    background-color: lightgreen;
+    font-weight: bold;
+}
